@@ -1,6 +1,8 @@
 # Reporting Guidelines
 
-If you believe someone is violating the code of conduct we ask that you report it to the Stumptown Syndicate by emailing conduct@stumptownsyndicate.org. **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
+If you believe someone is violating the code of conduct we ask that you report it to the Stumptown Syndicate by emailing conduct@stumptownsyndicate.org. 
+
+**All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
 If you believe anyone is in physical danger, please notify appropriate law enforcement first. If you are unsure what law enforcement agency is appropriate, please include this in your report and we will attempt to notify them.
 
@@ -47,5 +49,5 @@ Finally, the Working Group will make a report on the situation to the Stumptown 
 
 Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the Stumptwon Syndicate Board at board@stumptownsyndicate.org with your appeal and the Syndicate board will review the case.
 
-_Reporting Guidlines derived from those of the Django Software Foundation._u
-DRAFT
+_Revision 1.0, DRAFT, proposed February 2014_
+_Reporting Guidlines derived from those of the Django Software Foundation._
