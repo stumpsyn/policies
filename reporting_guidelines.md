@@ -43,11 +43,11 @@ We'll respond within one week to the person who filed the report with either a r
 
 Once we've determined our final action, we'll contact the original reporter to let them know what action (if any) we'll be taking. We'll take into account feedback from the reporter on the appropriateness of our response, but we don't guarantee we'll act on it.
 
-Finally, the Working Group will make a report on the situation to the Stumptown Syndicate board. The board may choose to a public report of the incident.
+Finally, the Working Group will make a report on the situation to the Stumptown Syndicate board. The board may choose to issue a public report of the incident.
 
 ## Appealing
 
 Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the Stumptwon Syndicate Board at board@stumptownsyndicate.org with your appeal and the Syndicate board will review the case.
 
-_Revision 1.0, DRAFT, proposed February 2014_
-_Reporting Guidlines derived from those of the Django Software Foundation._
+_Revision 1.0, DRAFT, proposed June 2014_
+_Reporting Guidlines derived from those of the [Django Software Foundation](https://www.djangoproject.com/conduct/reporting/)._

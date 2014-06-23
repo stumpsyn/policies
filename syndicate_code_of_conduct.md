@@ -18,6 +18,8 @@ If you see someone who is making an extra effort to ensure our community is welc
 
 ## 3. Expected Behavior
 
+The following behaviors are expected and requested of all community members:
+
   * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
   * Exercise consideration and respect in your speech and actions.
   * Attempt collaboration before conflict.
@@ -39,7 +41,7 @@ The following behaviors are considered harassment and are unacceptable within ou
   * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
   * Deliberate intimidation, stalking or following (online or in person).
   * Advocating for, or encouraging, any of the above behavior.
-  * Sustained disruption of community events, including talks and presenations.
+  * Sustained disruption of community events, including talks and presentations.
 
 ## 5. Consequences of Unacceptable Behavior
 
@@ -51,7 +53,7 @@ If a community member engages in unacceptable behavior, we may take any action d
 
 ## 6. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify us as soon as possible by emailing conduct@stumptownsyndicate.org. Please read [Reporting Guidelines]() for details.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify us as soon as possible by emailing conduct@stumptownsyndicate.org. Please read [Reporting Guidelines](reporting_guidelines.md) for details.
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
@@ -63,7 +65,7 @@ Only permanent resolutions (such as bans) may be appealed. To appeal a decision 
 
 We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
 
-This code of conduct and its related procedures also applies to unacceptable behavior occuring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
+This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
 ## 9. Contact info
 
@@ -75,7 +77,8 @@ christie@stumptownsyndicate.org
 
 This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 
-Additons dervied from the Django Code of Conduct.
+Portions of text dervied from the [Django Code of Conduct](https://www.djangoproject.com/conduct/ and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
-_Revision 2.1, proposed February 2014_
+_Revision 2.1, proposed June 2014_
+
 _Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
