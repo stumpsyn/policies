@@ -3,13 +3,13 @@
 ## 1. Propósito
 
 Un objetivo principal de COMMUNITY_NAME es ser inclusiva para
-el mayor número de contribuyentes, con la mayor diversidad orígenes posibles.
+el mayor número de contribuyentes, con la mayor diversidad de orígenes posibles.
 Como tal, estamos comprometidos a proporcionar un ambiente agradable, seguro y
 acogedor para todos, independientemente de su sexo, orientación sexual, capacidad,
-etnia, nivel socioeconómico, y la religión (o falta de la misma).
+etnia, nivel socioeconómico, y religión (o falta de la misma).
 
 Este código de conducta resume nuestras expectativas para todos
-los que participan en nuestra comunidad, así como la
+los que participan en nuestra comunidad, así como las
 consecuencias para el comportamiento inaceptable.
 
 Invitamos a todos los que participan en COMMUNITY_NAME a que
@@ -19,7 +19,7 @@ nos ayuden a crear experiencias seguras y positivas para todos.
 
 Un objetivo adicional de este Código de Conducta es
 aumentar la ciudadanía de [software / cultura / tecnología] libre mediante el fomento
-los participantes a reconocer y fortalecer las relaciones
+de los participantes a reconocer y fortalecer las relaciones
 entre nuestras acciones y sus efectos en nuestra comunidad.
 
 Las comunidades reflejan las sociedades en las que existen y la acción positiva
