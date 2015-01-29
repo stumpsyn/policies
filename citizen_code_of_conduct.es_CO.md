@@ -71,7 +71,7 @@ apropiada, hasta e incluyendo una prohibición temporal o
 expulsión permanente de la comunidad, sin previo aviso (y
 sin derecho a reembolso en el caso de un evento de pago).
 
-## 6. Si usted es testigo o sean objeto de Comportamiento inaceptable
+## 6. Si usted es testigo o es objeto de comportamiento inaceptable
 
 Si usted es víctima o testigo de una conducta inaceptable, o tiene
 cualquier alguna inquietud, por favor comuníquese con un organizador de la comunidad
