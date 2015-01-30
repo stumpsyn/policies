@@ -2,8 +2,8 @@
 
 ## 1. Propósito
 
-Un objetivo principal de COMMUNITY_NAME es ser inclusiva para
-el mayor número de contribuyentes, con la mayor diversidad de orígenes posibles.
+Un objetivo principal de COMMUNITY_NAME es ser inclusiva para el mayor número
+de contribuyentes, con la mayor diversidad de orígenes posibles.
 Como tal, estamos comprometidos a proporcionar un ambiente agradable, seguro y
 acogedor para todos, independientemente de su sexo, orientación sexual, capacidad,
 etnia, nivel socioeconómico, y religión (o falta de la misma).
@@ -18,8 +18,8 @@ nos ayuden a crear experiencias seguras y positivas para todos.
 ## 2. Ciudadania de [Software / Cultura / Tecnología] Libre
 
 Un objetivo adicional de este Código de Conducta es
-aumentar la ciudadanía de [software / cultura / tecnología] libre mediante el fomento
-de los participantes a reconocer y fortalecer las relaciones
+aumentar la ciudadanía de [software / cultura / tecnología] libre mediante el
+fomento de los participantes a reconocer y fortalecer las relaciones
 entre nuestras acciones y sus efectos en nuestra comunidad.
 
 Las comunidades reflejan las sociedades en las que existen y la acción positiva
@@ -27,15 +27,15 @@ es fundamental para contrarrestar las muchas formas de desigualdad y los abusos
 de poder que existen en la sociedad.
 
 Si ves a alguien que está haciendo un esfuerzo adicional y significativo para
-asegurar que nuestra comunidad sea acogedora, amable, y esta persona alienta
+asegurar que nuestra comunidad sea acogedora, amable, y esta persona alienta a
 todos los participantes a que contribuyan en la mayor medida, nos gustaría saber.
 
 ## 3. Comportamiento esperado
 
 * Participe de manera auténtica y activa. Al hacerlo, usted contribuye a la salud y la longevidad de esta comunidad.
-* Ejercicie la consideración y el respeto en sus comunicaciones y acciones.
+* Ejercite la consideración y el respeto en sus comunicaciones y acciones.
 * Intente colaborar en lugar de generar conflicto.
-* Absténgase de conducta y lenguaje degradante, discriminatorio, abusivo o de acosante.
+* Absténgase de conducta y lenguaje degradante, discriminatorio, abusivo o acosante.
 * Sea consciente de su entorno y de sus compañeros participantes. Alerte a líderes comunitarios si usted nota una situación peligrosa, alguien en apuros, o violaciónes de este Código de Conducta, incluso si parecen intrascendentes.
 
 ## 4. Comportamiento inaceptable
@@ -57,13 +57,13 @@ fotografías o grabaciónes acosantes; interrupción sostenida de
 charlas y otros eventos; contacto físico inapropiado, y
 atención sexual no deseada.
 
-## 5. Consecuencias de Comportamiento inaceptable
+## 5. Consecuencias de comportamiento inaceptable
 
 El comportamiento inaceptable de cualquier miembro de la comunidad, incluyendo
-patrocinadores y aquellos con poder de desición, no será tolerado.
+patrocinadores y aquellos con poder de decisión, no será tolerado.
 
 Se espera que personas a quienes se les solicite que detengan su comportamiento
-inaceptable deben cumplir de manera inmediata.
+inaceptable lo hagan de manera inmediata.
 
 Si un miembro de la comunidad participa en una conducta inaceptable,
 los organizadores comunitarios pueden tomar cualquier acción que consideren
@@ -74,7 +74,7 @@ sin derecho a reembolso en el caso de un evento de pago).
 ## 6. Si usted es testigo o es objeto de comportamiento inaceptable
 
 Si usted es víctima o testigo de una conducta inaceptable, o tiene
-cualquier alguna inquietud, por favor comuníquese con un organizador de la comunidad
+cualquier inquietud, por favor comuníquese con un organizador de la comunidad
 lo antes posible. [CONTACT_INFO_HERE]
 
 Adicionalmente, los organizadores comunitarios están disponibles para ayudar
@@ -83,24 +83,24 @@ victimas de comportamiento inaceptable se sientan seguros,
 En el contexto de los eventos en persona, los organizadores
 también pueden proporcionar escoltas si un miembro de la comunidad lo siente necesario.
 
-## 7. Trato de reclamos
+## 7. Reclamos
 
 Si usted siente que ha sido falsamente o injustamente acusado de
 violar este Código de Conducta, usted debe notificar a
 GOVERNING_BODY con una descripción concisa de su queja.
-Su queja será manejada de acuerdo con nuestra
+Su queja será manejada de acuerdo con nuestras
 políticas existentes. [LINK_TO_POLICY]
 
 [NOTA: las políticas de gobierno de cada organización deben dictar
 la forma de manejo de advertencias y las expulsiones de miembros de la comunidad.
-Se recomienda encarecidamente que se mentcionen esas políticas
+Se recomienda encarecidamente que se mencionen esas políticas
 aquí o en la Sección 7 y que se incluya un mecanismo
 para atender las quejas.]
 
 ## 8. Alcance
 
 Esperamos que todos los participantes de la comunidad (contribuyentes, pagados o
-de otro modo; patrocinadores; y otros invitados) se atengan a esta
+de otro modo; patrocinadores; y otros invitados) se atengan a este
 Código de Conducta en todos los espacios virtuales y presenciales,
 así como en todas las comunicaciones de uno-a-uno pertinentes
 a los negocios de la comunidad.
@@ -113,8 +113,6 @@ directamente]
 
 ## 10. Licencia y atribución
 
-Este Código de Conducta se distribuye bajo una [Creativa
-Commons Reconocimiento-Compartir bajo la misma licencia] (http://creativecommons.org/licenses/by-sa/3.0/)
+Este Código de Conducta se distribuye bajo una [Creative Commons Reconocimiento – CompartirIgual (by-sa)](http://creativecommons.org/licenses/by-sa/3.0/)
 
-_Revision 2.0, aprobada por la [Stumptown
-Distribuir] (http://stumptownsyndicate.org) a bordo el 10 de enero de 2013. Publicado 17 de marzo 2013._
+_Revision 2.0, aprobada por la [Stumptown Syndicate](http://stumptownsyndicate.org) a bordo el 10 de enero de 2013. Publicado 17 de marzo 2013._
