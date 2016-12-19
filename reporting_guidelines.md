@@ -50,4 +50,4 @@ Finally, the Working Group will make a report on the situation to the Stumptown 
 Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the Stumptown Syndicate Board at board@stumptownsyndicate.org with your appeal and the Syndicate board will review the case.
 
 _Revision 1.0, DRAFT, proposed June 2014_
-_Reporting Guidlines derived from those of the [Django Software Foundation](https://www.djangoproject.com/conduct/reporting/)._
+_Reporting Guidelines derived from those of the [Django Software Foundation](https://www.djangoproject.com/conduct/reporting/)._
