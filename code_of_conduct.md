@@ -43,11 +43,7 @@ The following behaviors are considered harassment and are unacceptable within ou
   * Advocating for, or encouraging, any of the above behavior.
   * Sustained disruption of community events, including talks and presentations.
 
-## 5. Weapons Policy
-
-No weapons will be allowed at Nashville PHP events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately and will only be allowed to return without the weapon. Attendees are further expected to comply with all state and local laws on this matter.
-
-## 6. Consequences of Unacceptable Behavior
+## 5. Consequences of Unacceptable Behavior
 
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
 
@@ -55,28 +51,28 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
-## 7. Reporting Guidelines
+## 6. Reporting Guidelines
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify us as soon as possible by emailing the Code of Conduct response team at <conduct@nashvillephp.org>. Please read [Reporting Guidelines](reporting_guidelines.md) for details.
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
-## 8. Addressing Grievances
+## 7. Addressing Grievances
 
 Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the organizers, contact Nashville PHP organizers at <organizers@nashvillephp.org> with your appeal and the organizers will review the case.
 
-## 9. Scope
+## 8. Scope
 
 We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues—online and in-person—as well as in all one-on-one communications pertaining to community business.
 
 This Code of Conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
-## 10. Contact Info
+## 9. Contact Info
 
   * Code of Conduct response team, <conduct@nashvillephp.org>
   * Nashville PHP organizers, <organizers@nashvillephp.org>
 
-## 11. License and Attribution
+## 10. License and Attribution
 
 The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 
