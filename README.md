@@ -1,10 +1,6 @@
 Policies
 ========
 
-Mirror of policies for the Stumptown Syndicate. 
+For future extensibility, this readme references only the top level document for our current code of conduct.
 
-* [Citizen Code of Conduct](citizen_code_of_conduct.md): Templated Code of Conduct for use groups, projects, and events.
-* [Syndicate Code of Conduct](syndicate_code_of_conduct.md): Stumptown Syndicate specific Code of Conduct.
-* [Reporting Guidelines](reporting_guidelines.md): Reporting guidelines for the Stumptown Syndicate Code of Conduct.
-
-Questions or comments? Get in touch with us board@stumptownsyndicate.org.
+* [KDE Code of Conduct](kde_coc.md): The KDE code of conduct, the current guiding document as of this commit.
